@@ -1,0 +1,12 @@
+img{ border: 0}
+
+div{ position: absolute; top:200px; left: 500px }
+#ButtonList1{ position: absolute; top:80px; left: 100px }
+#ButtonList2{ position: absolute; top:140px; left: 100px }
+#ButtonList3{ position: absolute; top:200px; left: 100px }
+#ImageDiv1{ position: absolute; top:80px; left: 500px }
+#ImageDiv2{ position: absolute; top: 550px; left:100px }
+#TextDiv{ position: absolute; top: 400px; left: 500px}
+#tableDiv{ position: absolute; top:90px; left: 500px}
+
+h1{ color:#cc9494; font-size: 20px; font-weight: bold }
